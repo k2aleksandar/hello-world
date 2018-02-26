@@ -1,0 +1,2 @@
+Spring je open-source Java platforma sa kvalitetnom podrskom za razvoj aplikacija. Framework poseduje bogat skup modula,
+podprojekata i biblioteka.Programiranje u Springu je vezano za koncept inverzije kontrole, poznatim i pod nazivom Dependency Injection.
